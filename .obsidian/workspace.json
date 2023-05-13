@@ -1,0 +1,191 @@
+{
+  "main": {
+    "id": "1ff9d2c74c2684b7",
+    "type": "split",
+    "children": [
+      {
+        "id": "1e6ffb5c00606317",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "623db1053c93fa00",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "QuickNote/Obsidian.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "98ca5978d4d94a86",
+    "type": "split",
+    "children": [
+      {
+        "id": "5fcaaa72f4bde43a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "49bd2254edc4ab83",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "40de3713a76ad39c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "dfafed41c109de86",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "d1b01eb009de46c2",
+    "type": "split",
+    "children": [
+      {
+        "id": "100a82f25459b036",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dc23d0d292bb855c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "QuickNote/Obsidian.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "b5823873cbfd95e0",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "QuickNote/Obsidian.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "b53dca53543f46c4",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "6cfc13b4087291b7",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "QuickNote/Obsidian.md"
+              }
+            }
+          },
+          {
+            "id": "0eae104d2dda0ea2",
+            "type": "leaf",
+            "state": {
+              "type": "oz-calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "2c9e0ef0ac316272",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "command-palette:Open command palette": false,
+      "graph:Open graph view": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "templates:Insert template": false
+    }
+  },
+  "active": "623db1053c93fa00",
+  "lastOpenFiles": [
+    "📝 Blog/2023/05/Blog journal.md",
+    "📝 Blog/2024/05/Blog journal.md",
+    "📦 Assets/📃 Templates/blog.md",
+    "📦 Assets/📃 Templates/Current time.md",
+    "📝 Blog/2024/05/test.md",
+    "📦 Assets/🖼️ image/dragon.jpg",
+    "QuickNote/Obsidian.md",
+    "Untitled.canvas",
+    "QuickNote",
+    "📝 Blog/2024/05",
+    "📝 Blog/2024",
+    "📝 Blog/2023/05",
+    "📝 Blog/2023",
+    "Untitled.md",
+    "test.md",
+    "📝 Blog",
+    "202305121727.md",
+    "📦 Assets/📃 Templates",
+    "📦 Assets/🖼️ image",
+    "📦 Assets",
+    "Pasted image 20230512170544.png"
+  ]
+}

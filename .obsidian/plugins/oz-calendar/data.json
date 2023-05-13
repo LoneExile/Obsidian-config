@@ -1,0 +1,14 @@
+{
+  "openViewOnStart": true,
+  "calendarType": "ISO 8601",
+  "dateSource": "yaml",
+  "yamlKey": "created",
+  "dateFormat": "YYYY-MM-DD HH:mm",
+  "defaultFolder": "/",
+  "defaultFileNamePrefix": "YYYY-MM-DD",
+  "fixedCalendar": true,
+  "showDestinationFolderDuringCreate": true,
+  "openFileBehaviour": "current-tab",
+  "sortingOption": "name",
+  "newNoteDate": "current-date"
+}
