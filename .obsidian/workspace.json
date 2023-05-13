@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "1e6ffb5c00606317",
+        "id": "484b5f8045d5d618",
         "type": "tabs",
         "children": [
           {
-            "id": "623db1053c93fa00",
+            "id": "4da910203ae48e58",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "QuickNote/Obsidian.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "QuickNote/Obsidian.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "QuickNote/Obsidian.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "QuickNote/Obsidian.md"
-              }
+              "state": {}
             }
           },
           {
@@ -150,7 +142,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -164,28 +157,6 @@
       "templates:Insert template": false
     }
   },
-  "active": "623db1053c93fa00",
-  "lastOpenFiles": [
-    "📝 Blog/2023/05/Blog journal.md",
-    "📝 Blog/2024/05/Blog journal.md",
-    "📦 Assets/📃 Templates/blog.md",
-    "📦 Assets/📃 Templates/Current time.md",
-    "📝 Blog/2024/05/test.md",
-    "📦 Assets/🖼️ image/dragon.jpg",
-    "QuickNote/Obsidian.md",
-    "Untitled.canvas",
-    "QuickNote",
-    "📝 Blog/2024/05",
-    "📝 Blog/2024",
-    "📝 Blog/2023/05",
-    "📝 Blog/2023",
-    "Untitled.md",
-    "test.md",
-    "📝 Blog",
-    "202305121727.md",
-    "📦 Assets/📃 Templates",
-    "📦 Assets/🖼️ image",
-    "📦 Assets",
-    "Pasted image 20230512170544.png"
-  ]
+  "active": "4da910203ae48e58",
+  "lastOpenFiles": []
 }

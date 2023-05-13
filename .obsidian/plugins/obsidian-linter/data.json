@@ -22,7 +22,7 @@
     },
     "insert-yaml-attributes": {
       "enabled": true,
-      "text-to-insert": "tags:\ncategory: \ndescription:\nslug:\ndraft:\nauthor: Apinant U-suwantim"
+      "text-to-insert": "tags:\ncategory: \ndescription:\nthumbnail:\nslug:\ndraft:\nauthor: Apinant U-suwantim"
     },
     "move-tags-to-yaml": {
       "enabled": true,
