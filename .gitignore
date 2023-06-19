@@ -24,3 +24,6 @@
 !*Assets
 !*Assets/*
 !*Assets/*templates*/*
+
+.DS_Store
+.obsidian/workspace.json
